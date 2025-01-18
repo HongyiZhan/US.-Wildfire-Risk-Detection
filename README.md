@@ -21,7 +21,9 @@ Overall, the project provides a comprehensive analysis of wildfire prediction pe
 
 Wildfires pose significant environmental, economic, and health challenges. This project evaluates predictions made in 2018 by comparing them with actual 2019 wildfire data from the United States Geological Survey (USGS). Additionally, the analysis examines model drift by comparing 2018 risk scores with 2022 scores to understand prediction changes over time.
 
-![Wildfire Risk Analysis](path/to/US.-Wildfire-Risk-Detection/Heatmap)
+<p align="center">
+  <img src="Heat map.jpeg" alt="Logo">
+</p>
 ---
 
 ## Data Sources
